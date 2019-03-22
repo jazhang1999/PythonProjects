@@ -12,6 +12,7 @@ for line in handle:
 grandSum = 0
 for number in masterList:
     grandSum = grandSum + int(number)
+print("All Done")
 
 #Find the answer, and check to see all numerical values are accounted for
 print(grandSum)
